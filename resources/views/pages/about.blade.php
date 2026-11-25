@@ -12,7 +12,8 @@
   <div class="stack"><span class="eyebrow">Our story</span><h2>Why we exist</h2>
   <p>In many rural communes, the nearest lower-secondary school is more than 5 km away, and families need teenagers to help with the rice harvest. By grade 9, many students have stopped coming.</p>
   <p>Sustainable for Cambodia was founded by Cambodian teachers and international supporters who believed those students only needed a little help to stay: a bicycle, a uniform, a library to study in, and an adult who checks in.</p>
-  <p class="sample-note">Sample history. Replace with your organization's own story.</p></div>
+  {{-- <p class="sample-note">Sample history. Replace with your organization's own story.</p> --}}
+</div>
   <div class="photo ph-1" role="img" aria-label="Founding village school"><svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="3" stroke-linejoin="round"><path d="M6 26 32 10l26 16"/><path d="M12 26v28h40V26"/><path d="M26 54V40h12v14"/><circle cx="32" cy="28" r="4"/></svg></div>
 </div></section>
 <section class="band alt"><div class="wrap">
