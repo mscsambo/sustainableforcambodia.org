@@ -69,7 +69,7 @@
   <div class="photo program-photo"><img src="{{ asset('sreymom.png') }}" width="1448" height="1086" alt="Sreymom" loading="lazy" decoding="async"></div>
   <div class="stack"><span class="eyebrow">Student story</span>
   <p class="quote">“My parents thought I would stop after grade 9. Now I am the first in my family to sit the BacII exam.”</p>
-  <p class="quote-by">Sreymom, grade 12, Kampong Thom province (sample story)</p>
+  <p class="quote-by">Sreymom, grade 12, Kampong Thom province</p>
   <a class="btn btn-forest" href="{{ route('donate') }}#sponsor" style="justify-self:start">Sponsor a student like Sreymom</a></div>
 </div></section>
 
